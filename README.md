@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Wasana Karunasena
 
-I'm a passionate Computer Engineering undergraduate with a keen interest in software development, data science, and IoT. I love tackling challenging problems and developing innovative solutions.
+I'm a passionate Computer Engineering undergraduate with a keen interest in software development, AI & ML, data science, and IoT. I love tackling challenging problems and developing innovative solutions.
 
 ## 🎓 About Me
 
 - Currently pursuing a Bachelor's degree in Computer Engineering in Faculty Of Engineering University Of Jaffna.
-- Focused on areas such as Software Engineering, cloud computing, machine learning, and embedded systems.
+- Focused on areas such as Software Engineering,Artificial Inteligenec, cloud computing, machine learning, and embedded systems.
 - Constantly learning new technologies and improving my programming skills.
 
 ## 🔧 Technologies & Tools
