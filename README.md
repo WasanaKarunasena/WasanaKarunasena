@@ -32,9 +32,6 @@ Feel free to reach out if you’d like to collaborate on a project or just want 
 
 
 
-## ⚡ Fun Facts
 
-- I love solving puzzles and coding challenges.
-- In my free time, I enjoy exploring new technologies and participating in hackathons.
 
 Thanks for stopping by! 🚀
